@@ -1,0 +1,17 @@
+Host server1
+  HostName 172.18.1.10
+  User ubuntu
+  Port 22
+  IdentityFile /home/ubuntu/.ssh/ceg3120Lab.pem
+
+Host server2
+  HostName 172.18.1.11
+  User ubuntu
+  Port 22
+  IdentityFile /home/ubuntu/.ssh/ceg3120Lab.pem
+
+Host server3
+  HostName 172.18.1.12
+  User ubuntu
+  Port 22
+  IdentityFile /home/ubuntu/.ssh/ceg3120Lab.pem
